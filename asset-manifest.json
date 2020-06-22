@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/roshini-profile/static/css/main.5f361e03.chunk.css",
+    "main.js": "/roshini-profile/static/js/main.7166916d.chunk.js",
+    "main.js.map": "/roshini-profile/static/js/main.7166916d.chunk.js.map",
+    "runtime-main.js": "/roshini-profile/static/js/runtime-main.df80ca7d.js",
+    "runtime-main.js.map": "/roshini-profile/static/js/runtime-main.df80ca7d.js.map",
+    "static/js/2.5fe9da17.chunk.js": "/roshini-profile/static/js/2.5fe9da17.chunk.js",
+    "static/js/2.5fe9da17.chunk.js.map": "/roshini-profile/static/js/2.5fe9da17.chunk.js.map",
+    "index.html": "/roshini-profile/index.html",
+    "precache-manifest.ab86af78d04e1af7bdd46fa153d8fe35.js": "/roshini-profile/precache-manifest.ab86af78d04e1af7bdd46fa153d8fe35.js",
+    "service-worker.js": "/roshini-profile/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/roshini-profile/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5fe9da17.chunk.js.LICENSE.txt": "/roshini-profile/static/js/2.5fe9da17.chunk.js.LICENSE.txt",
+    "static/media/profile.svg": "/roshini-profile/static/media/profile.350ff683.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df80ca7d.js",
+    "static/js/2.5fe9da17.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.7166916d.chunk.js"
+  ]
+}
